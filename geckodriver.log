@@ -1,0 +1,838 @@
+1588772333845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2N6S6U"
+1588772334484	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772335112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772335112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772335113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772335113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772337697	Marionette	INFO	Listening on port 39383
+1588772337756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588772358512	Marionette	INFO	Stopped listening on port 39383
+1588772362096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles0i1b7"
+1588772362586	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772363190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772363190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772363190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772363190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772365638	Marionette	INFO	Listening on port 39565
+1588772365707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588772398489	Marionette	INFO	Stopped listening on port 39565
+1588772398574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewPpOah"
+1588772399085	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772399678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772399678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772399678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772399678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772402028	Marionette	INFO	Listening on port 44497
+1588772402090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588772413005	Marionette	INFO	Stopped listening on port 44497
+1588772897206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef8rWU5"
+1588772897716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772898352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772898352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772898352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772898352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772900933	Marionette	INFO	Listening on port 46433
+1588772901030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588772930232	Marionette	INFO	Stopped listening on port 46433
+1588772931579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehj5TZe"
+1588772932072	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772932653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772932653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772932653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772932653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772935054	Marionette	INFO	Listening on port 43253
+1588772935101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588772954760	Marionette	INFO	Stopped listening on port 43253
+1588772965931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecYtfHc"
+1588772966407	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588772966993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588772966993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588772966993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588772966993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588772969455	Marionette	INFO	Listening on port 45899
+1588772969543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773014639	Marionette	INFO	Stopped listening on port 45899
+1588773026082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMLI8q9"
+1588773026564	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773027169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773027169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773027169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773027169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773029555	Marionette	INFO	Listening on port 42211
+1588773029605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773082742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoGhg7d"
+1588773083306	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773084142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773084142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773084142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773084142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773084655	Marionette	INFO	Stopped listening on port 42211
+1588773086635	Marionette	INFO	Listening on port 41973
+1588773086672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773203348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIRfT2g"
+1588773203884	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773204474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773204474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773204474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773204474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773206892	Marionette	INFO	Listening on port 46533
+1588773206982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773264798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDmpj5l"
+1588773265303	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773265899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773265899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773265899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773265900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773268380	Marionette	INFO	Listening on port 36201
+1588773268422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773289157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqqevuF"
+1588773289649	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773290238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773290238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773290239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773290239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773292721	Marionette	INFO	Listening on port 39893
+1588773292767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588773310435	Marionette	INFO	Stopped listening on port 41973
+1588773310921	Marionette	INFO	Stopped listening on port 46533
+1588773310965	Marionette	INFO	Stopped listening on port 36201
+1588773312398	Marionette	INFO	Stopped listening on port 39893
+1588773313671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepDliNW"
+1588773314208	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773314862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773314862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773314862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773314863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773317490	Marionette	INFO	Listening on port 38605
+1588773317530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DfBFiBBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir99nqsZ_pAhU1AtQKHXb7AX4Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1588773409621	Marionette	INFO	Stopped listening on port 38605
+1588773441644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelsjm2O"
+1588773442148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773442975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773442975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773442976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773442976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773445636	Marionette	INFO	Listening on port 40595
+1588773445676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DABljjBmCBB2gAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiMsu-nsp_pAhVgHLkGHWYyArgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 680"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:680:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1934:69
+addAllSources@resource://devtools/server/actors/thread.js:1316:14
+onSources@resource://devtools/server/actors/thread.js:1322:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 680, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 680: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+1588773855142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegrkn4O"
+1588773855648	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773856359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773856359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773856359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773856359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773858780	Marionette	INFO	Listening on port 46265
+1588773858859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DsBFiPBWCuBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjnzuvss5_pAhUBJ7kGHX8OCb0Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588773884323	Marionette	INFO	Stopped listening on port 40595
+1588773887384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewJn14x"
+1588773887841	Marionette	INFO	Stopped listening on port 46265
+1588773887968	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773888550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773888551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773888551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773888551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773890918	Marionette	INFO	Listening on port 40609
+1588773891013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DZBFiKBWDFBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiouJf8s5_pAhXBGrkGHdqNCo8Q_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588773957656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei7ru1f"
+1588773958204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588773958929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588773958930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588773958930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588773958930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588773961556	Marionette	INFO	Listening on port 40151
+1588773961591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CaBVjBBWDoBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi2xpuetJ_pAhX_GbkGHWkEDWgQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588774109336	Marionette	INFO	Stopped listening on port 40151
+1588774128989	Marionette	INFO	Stopped listening on port 40609
+1588774136038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHIuM4"
+1588774136549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774137217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774137217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774137217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774137217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774139825	Marionette	INFO	Listening on port 36675
+1588774139859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CIBVisBWDOBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-0-rytJ_pAhVvK7kGHa7YBnsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588774171644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDl0A9L"
+1588774172141	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774172733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774172733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774172733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774172734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774175232	Marionette	INFO	Listening on port 34909
+1588774175271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D5BFigBWDBBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiujtuDtZ_pAhUSH7kGHWzBDIEQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588774226456	Marionette	INFO	Stopped listening on port 34909
+1588774227624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerGu96S"
+1588774228121	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774228715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774228715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774228715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774228716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774231066	Marionette	INFO	Listening on port 45951
+1588774231139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/SearchTelemetryChild.jsm, line 146: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DrBFiJBWCmBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiwrayetZ_pAhXrK7kGHTwGC-AQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588774510783	Marionette	INFO	Stopped listening on port 45951
+1588774512274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL0RCg6"
+1588774512778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774513376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774513376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774513376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774513376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774516016	Marionette	INFO	Listening on port 39747
+1588774516086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1D6BFiaBWC2BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjm9pqmtp_pAhWxIrkGHWgIDjQQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588774545949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefzn9DR"
+1588774546464	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774547125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774547125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774547125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774547125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774550529	Marionette	INFO	Listening on port 36771
+1588774550571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CdBVi5BWDVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwir8tK2tp_pAhVaGbkGHWUNCqUQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588774565800	Marionette	INFO	Stopped listening on port 36675
+1588774566222	Marionette	INFO	Stopped listening on port 39747
+1588774569335	Marionette	INFO	Stopped listening on port 36771
+1588774651819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJetbwG"
+1588774652326	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774652959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774652959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774652959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774652959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774655380	Marionette	INFO	Listening on port 39651
+1588774655431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1DxBFiaBWC-BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjDrtLotp_pAhUTJrkGHV2SCowQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588774875097	Marionette	INFO	Stopped listening on port 39651
+1588774920494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep5HRgU"
+1588774920982	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588774921680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588774921680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588774921680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588774921680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588774924403	Marionette	INFO	Listening on port 34339
+1588774924507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CJBViqBWDDBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUlProt5_pAhWiGrkGHYX3B-sQ_AUoA3oECA4QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775046509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWrBp2b"
+1588775047027	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775047726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775047726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775047726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775047726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775050227	Marionette	INFO	Listening on port 43695
+1588775050332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1CYBFi_BGDoBGgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiou_akuJ_pAhUXLbkGHb8FBrwQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775105067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzWs24"
+1588775105572	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775106217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775106217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775106217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775106217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775108767	Marionette	INFO	Listening on port 42833
+1588775108814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso&gs_lcp=CgZwc3ktYWIQA1C_BFjpBGCVBWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwitrefAuJ_pAhVhH7kGHR5wCGsQ_AUoA3oECA8QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775135273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileott69G"
+1588775135785	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775136389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775136389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775136389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775136389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775138854	Marionette	INFO	Listening on port 42735
+1588775138899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3722: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps?q=piso+corn%C3%A9lio+proc%C3%B3pio&gs_lcp=CgZwc3ktYWIQA1DWBFjbBWD6BWgAcAB4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXo&uact=5&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT-6LPuJ_pAhXDGbkGHUvcDssQ_AUoA3oECA0QBQ line 1295 > scriptElement, line 3733: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775216637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLslPBQ"
+1588775217195	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775217856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775217856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775217856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775217856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775220795	Marionette	INFO	Listening on port 45621
+1588775220861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/@12.1913696,-68.9759875,11z?hl=pt-BR line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.br/maps/preview line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775519598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYI4d3v"
+1588775520214	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775520808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775520808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775520808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775520809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775523611	Marionette	INFO	Listening on port 44579
+1588775523759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588775532876	Marionette	INFO	Stopped listening on port 44579
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588775539514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5vH3Ka"
+1588775540020	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775540626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775540626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775540626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775540626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775543168	Marionette	INFO	Listening on port 37439
+1588775543263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588775551899	Marionette	INFO	Stopped listening on port 37439
+1588775578153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep6VxdY"
+1588775578647	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588775580053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588775580053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588775580054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588775580054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588775582855	Marionette	INFO	Listening on port 45299
+1588775582875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5285: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5285: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588775868522	Marionette	INFO	Stopped listening on port 45299
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588784097668	Marionette	INFO	Stopped listening on port 42833
+1588784097703	Marionette	INFO	Stopped listening on port 43695
+1588784097706	Marionette	INFO	Stopped listening on port 42735
+1588784097977	Marionette	INFO	Stopped listening on port 45621
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588784099117	Marionette	INFO	Stopped listening on port 34339
+1588810689177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledOZHpg"
+1588810689830	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588810690553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588810690553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588810690554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588810690554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588810694027	Marionette	INFO	Listening on port 43599
+1588810694121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588812292299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ56Juu"
+1588812293044	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812293912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812293913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812293913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812293913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812297127	Marionette	INFO	Listening on port 39013
+1588812297223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588812401084	Marionette	INFO	Stopped listening on port 39013
+1588812403660	Marionette	INFO	Stopped listening on port 43599
+1588812408968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG4UROc"
+1588812409609	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812410318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812410318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812410318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812410318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812413591	Marionette	INFO	Listening on port 40961
+1588812413690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588812424986	Marionette	INFO	Stopped listening on port 40961
+1588812427519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilengHxs2"
+1588812428157	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812428901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812428901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812428902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812428902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812432287	Marionette	INFO	Listening on port 43859
+1588812432335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1903: TypeError: currentPanel is undefined
+1588812598164	Marionette	INFO	Stopped listening on port 43859
+1588812600786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHFWbtw"
+1588812601429	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812602115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812602115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812602115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812602115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812605402	Marionette	INFO	Listening on port 41611
+1588812605443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1292 > scriptElement, line 5311: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588812660949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9OkEcJ"
+1588812661645	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812662550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812662550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812662551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812662551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812666043	Marionette	INFO	Listening on port 40043
+1588812666073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588812704347	Marionette	INFO	Stopped listening on port 41611
+1588812706657	Marionette	INFO	Stopped listening on port 40043
+1588812883125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerPTw2A"
+1588812883636	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588812884431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588812884431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588812884431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588812884431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588812888015	Marionette	INFO	Listening on port 46153
+1588812888064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588813051381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileumC1Lu"
+1588813052023	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588813052742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813052742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813052742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813052743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813056344	Marionette	INFO	Listening on port 35149
+1588813056416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588813059237	Marionette	INFO	Stopped listening on port 35149
+1588813747759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjhdUp"
+1588813748389	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588813749209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813749210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813749210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813749210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813752362	Marionette	INFO	Listening on port 32785
+1588813752388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588813794701	Marionette	INFO	Stopped listening on port 46153
+1588813797803	Marionette	INFO	Stopped listening on port 32785
+1588813799067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1AznOa"
+1588813799707	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588813800426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813800426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813800426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813800426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813803686	Marionette	INFO	Listening on port 40467
+1588813803786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588813844169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevUhEI2"
+1588813844791	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588813845520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588813845520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588813845520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588813845520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588813848824	Marionette	INFO	Listening on port 34093
+1588813848904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588813850342	Marionette	INFO	Stopped listening on port 40467
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1588814120370	Marionette	INFO	Stopped listening on port 34093
+1588814260891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileplfgn0"
+1588814261518	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588814262257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814262257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814262257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814262257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814265718	Marionette	INFO	Listening on port 38825
+1588814265826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588814530549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejUfU5D"
+1588814531194	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588814531907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814531907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814531907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814531907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814536553	Marionette	INFO	Listening on port 41547
+1588814536615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588814726385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIz3cnw"
+1588814727083	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588814727950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814727950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814727950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814727950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814731559	Marionette	INFO	Listening on port 45105
+1588814731612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588814785805	Marionette	INFO	Stopped listening on port 45105
+1588814830525	Marionette	INFO	Stopped listening on port 41547
+1588814830561	Marionette	INFO	Stopped listening on port 38825
+1588814833260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ij2GA"
+1588814833922	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588814834784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588814834784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588814834784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588814834785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588814838148	Marionette	INFO	Listening on port 36057
+1588814838199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588816143893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNr43kY"
+1588816144630	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588816145468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588816145469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588816145469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588816145469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588816148978	Marionette	INFO	Listening on port 35639
+1588816149020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588816477665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepabikr"
+1588816478340	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588816479164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588816479164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588816479164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588816479165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588816481335	Marionette	INFO	Stopped listening on port 35639
+1588816481337	Marionette	INFO	Stopped listening on port 36057
+1588816483497	Marionette	INFO	Listening on port 35423
+1588816483604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5274: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1588821533074	Marionette	INFO	Stopped listening on port 35423
